@@ -16,6 +16,8 @@ public class DemoMain {
 		int numberOfPassengers = demoCar.getNumberPassengers();
 		double speed = demoCar.getSpeed();
 		double getTooFastKph = demoCar.getTooFastKPH();
+		
+		
 
 		// Output instance variables of the demoCar object
 		System.out.println("Number of passengers: " + numberOfPassengers);
