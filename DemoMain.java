@@ -5,7 +5,7 @@
 public class DemoMain {
 	public static void main(String[] args) {
 		// Declare and initialize a DemoUseInterfaceCar object
-		DemoUseInterfaceCar demoCar = new DemoUseInterfaceCar(7, 6.65);
+		DemoUseInterfaceCar demoCar = new DemoUseInterfaceCar(7, 2.56);
 		
 		
 		
